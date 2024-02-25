@@ -1,0 +1,22 @@
+cal-Show calendar.
+cat-Used to concatenate files and print them on the screen.
+cd-Used to change directory.
+chage-Used to change user password information.
+chattr-Used to change file attributes.
+chfn-Used to change real user name and information.
+chmod-Change access permission for a file(s).
+date-Show system date and time.
+dc-Desk calculator utility.
+disable-Restrict access to a printer.
+eject-Eject removable media.
+env-Run a command in a modified environment. Show/set/delete environment variables.
+du-Show disk usage summary for a file(s).
+fc-list-Show the list of available fonts.
+file-Determine file type for a file.
+hash-Shows the path for the commands executed in the shell.
+history-Shows the command history.
+if-Execute a command conditionally.
+locate-Used to find files by their name.
+logger-Make entries in the system log.
+lprint-Used to print a file.
+lprm-Cancel print jobs.
